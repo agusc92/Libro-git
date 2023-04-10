@@ -1,0 +1,1 @@
+Git es un sirtema de control de verdiones ideado por Linus Torvalds
